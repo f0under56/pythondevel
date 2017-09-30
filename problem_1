@@ -1,0 +1,10 @@
+inputs = raw_input("Enter string:")
+vowels = 0
+strings = ['a','e','i','o','u']
+
+for i in inputs:
+  if(i == strings[0] or i == strings[1] or i == strings[2] or i == strings[3] or i == strings[4]):
+  vowels = vowels+1
+  
+print("Number of vowels are:")
+print(vowels)
