@@ -1,0 +1,11 @@
+string = raw_input('Enter the value: ')
+text = 'bob'
+counter = 0
+new = []
+
+for i in range(0, len(string), 1):
+  new.append(string[i:i+3])
+for l in new:
+  if(l == text):
+    counter += 1
+print(counter)
