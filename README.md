@@ -1,5 +1,4 @@
 # pythondevel
 
-Hi all,
-This account is only used for learning python. If you're beginner in programming like me, come and join.
-Goodluck! :)
+MITx - 6.00.1x course
+Introduction to computer science and programming using Python

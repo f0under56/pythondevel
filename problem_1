@@ -1,3 +1,4 @@
+#enter your prompt input in here
 inputs = raw_input("Enter string:")
 vowels = 0
 strings = ['a','e','i','o','u']
